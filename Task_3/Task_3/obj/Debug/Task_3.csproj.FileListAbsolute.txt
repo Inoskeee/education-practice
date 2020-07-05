@@ -1,0 +1,7 @@
+E:\Лабораторные по C#\ПРАКТИКА\Задача 3\Task_3\Task_3\bin\Debug\Task_3.exe.config
+E:\Лабораторные по C#\ПРАКТИКА\Задача 3\Task_3\Task_3\bin\Debug\Task_3.exe
+E:\Лабораторные по C#\ПРАКТИКА\Задача 3\Task_3\Task_3\bin\Debug\Task_3.pdb
+E:\Лабораторные по C#\ПРАКТИКА\Задача 3\Task_3\Task_3\obj\Debug\Task_3.csprojAssemblyReference.cache
+E:\Лабораторные по C#\ПРАКТИКА\Задача 3\Task_3\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+E:\Лабораторные по C#\ПРАКТИКА\Задача 3\Task_3\Task_3\obj\Debug\Task_3.exe
+E:\Лабораторные по C#\ПРАКТИКА\Задача 3\Task_3\Task_3\obj\Debug\Task_3.pdb
